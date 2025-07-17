@@ -1,4 +1,4 @@
-Smart Shop
+## Smart Shop
 
 **Smart Shop** is a lightweight e-commerce Flutter application built as a demo project to showcase key concepts in state management, data persistence, theming, and API integration. It utilizes modern Flutter practices like `Provider` for state management, `SharedPreferences` for local storage, and RESTful API consumption using the [FakeStore API](https://fakestoreapi.com).
 
@@ -79,9 +79,17 @@ Smart Shop
 
 
 ##  Screenshots
+<img width="1504" height="1006" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/8fcd63aa-4591-4594-b8c5-185c3d4dc4f7" />
+<img width="1490" height="1019" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/dd935e01-0056-423f-bf2e-7ddb7f1d7444" />
+<img width="1487" height="1006" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/40905bef-bd12-490b-9637-118593a92827" />
+<img width="1500" height="1016" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/25a25b03-8a2e-496a-b5cf-4302692ee38b" />
+<img width="1486" height="1011" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/1477e673-ed8e-4cc1-aa30-dc9fc7b8c9bb" />
+<img width="1510" height="1014" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/89cfe0c7-60cc-48ba-9b3e-e9a5db412acd" />
+<img width="1503" height="1004" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/2f1961af-35cf-4887-9596-3f376b27773c" />
 
 
-## 🚀 Getting Started
+
+## Getting Started
 
 ### Prerequisites
 
@@ -111,7 +119,7 @@ Smart Shop
    ```
 
 
-## 📂 Project Structure Overview
+##  Project Structure Overview
 
 ```
 lib/
