@@ -1,4 +1,4 @@
-## Smart Shop
+# Smart Shop
 
 **Smart Shop** is a lightweight e-commerce Flutter application built as a demo project to showcase key concepts in state management, data persistence, theming, and API integration. It utilizes modern Flutter practices like `Provider` for state management, `SharedPreferences` for local storage, and RESTful API consumption using the [FakeStore API](https://fakestoreapi.com).
 
@@ -169,11 +169,6 @@ This project was designed to demonstrate:
 * Routing and Navigation with Flutter's Navigator
 * Modern UI/UX practices with Material Design
 
-
-
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and share it for learning and development purposes.
 
 
 ## Acknowledgements
